@@ -160,6 +160,9 @@
     padding-top: 24px;
     padding-bottom: 24px;
   }
+  .page-header > .conteiner {
+    width: 1158px;
+  }
   .logo {
     margin-right: 76px;
   }

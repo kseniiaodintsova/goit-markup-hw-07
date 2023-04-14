@@ -176,6 +176,7 @@ body {
 }
 .mob-menu-wrap {
   height: 100%;
+  width: 428px;
 }
 
 .mob-close-btn {
@@ -232,7 +233,8 @@ body {
   color: var(--body-text);
 }
 .mob-social > .social-list {
-  justify-content: space-between;
+  gap: 56px;
+  justify-content: start;
 }
 /* ========== /NAVIGATION ========== */
 /* ========== Hero section ========== */
